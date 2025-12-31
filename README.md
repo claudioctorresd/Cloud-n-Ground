@@ -1,9 +1,4 @@
-<!-- Hero Section -->
-    <section class="hero">
-        <div class="container">
-<div class="hero-content">
-    <img class="logo" src="./Logo.png" alt="Cloud n Ground logo">
-    <h1>Cloud n Ground</h1>
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -106,7 +101,7 @@
             font-size: 1.25rem;
             margin-bottom: 12px;
             font-weight: 600;
-            color: #0099cc;
+            color: #1a1a1a;
         }
 
         .service-item p {
@@ -135,7 +130,7 @@
         .cta-button {
             display: inline-block;
             padding: 16px 40px;
-            background: #0099cc;
+            background: #0066ff;
             color: #ffffff;
             text-decoration: none;
             border-radius: 8px;
@@ -145,7 +140,7 @@
         }
 
         .cta-button:hover {
-            background: #007aa3;
+            background: #0052cc;
         }
 
         /* Footer */
@@ -159,10 +154,6 @@
 
         /* Responsive */
         @media (max-width: 768px) {
-            .logo {
-                width: 220px;
-            }
-
             .hero-content h1 {
                 font-size: 2.5rem;
             }
@@ -194,10 +185,6 @@
         }
 
         @media (max-width: 480px) {
-            .logo {
-                width: 180px;
-            }
-
             .hero-content h1 {
                 font-size: 2rem;
             }
