@@ -2,7 +2,7 @@
     <section class="hero">
         <div class="container">
             <div class="hero-content">
-                <img src="Logo.png">
+                <img src="Logo.png" alt="Cloud n Ground logo">
 <html lang="es">
 <head>
     <meta charset="UTF-8">
