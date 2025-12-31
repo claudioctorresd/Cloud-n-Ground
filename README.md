@@ -2,7 +2,7 @@
     <section class="hero">
         <div class="container">
             <div class="hero-content">
-                <img src="logo.png">
+                <img src="Logo.png">
 <html lang="es">
 <head>
     <meta charset="UTF-8">
