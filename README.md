@@ -1,8 +1,9 @@
 <!-- Hero Section -->
     <section class="hero">
         <div class="container">
-            <div class="hero-content">
-                <img src="Logo.png" alt="Cloud n Ground logo">
+<div class="hero-content">
+    <img class="logo" src="./Logo.png" alt="Cloud n Ground logo">
+    <h1>Cloud n Ground</h1>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
